@@ -1,0 +1,26 @@
+{
+  "name": "placas",
+  "authors": [
+    "Thiago Ferreira <thiago.f.v.silva@gmail.com>"
+  ],
+  "description": "Possibilitar que os futuros motoristas possam praticar o reconhecimento das placas de transito",
+  "main": "",
+  "keywords": [
+    "placas",
+    "transito",
+    "detran",
+    "cnh"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.7"
+  }
+}
